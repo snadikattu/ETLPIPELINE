@@ -1,0 +1,17 @@
+image: python:3.9
+
+stages:
+  - etl
+
+etl_job:
+  stage: etl
+  variables:
+    DATABASE_URI: "sqlite:////tmp/test.db"
+    TABLE_NAME: "my_table"
+    DATA_FILENAME: "data.csv"
+  script:
+    - pip install pandas sqlalchemy
+    - python etl.py
+  artifacts:
+    paths:
+      - etl.log
