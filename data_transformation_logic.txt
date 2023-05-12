@@ -1,0 +1,8 @@
+The data transformation logic to clean, filter, and enrich the extracted data is as follows:
+1. Remove duplicates
+2. Remove missing values
+3. Convert data types
+4. Filter data
+5. Aggregate data
+6. Join data
+7. Enrich data

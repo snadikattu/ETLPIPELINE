@@ -1,0 +1,4 @@
+The data loading process to load the transformed data into the target system is as follows:
+1. Connect to the target system
+2. Create the target table
+3. Load the transformed data into the target table

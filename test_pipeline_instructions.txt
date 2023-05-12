@@ -1,0 +1,4 @@
+To run the test_pipeline.py file:
+1. Open the command prompt
+2. Navigate to the directory containing the test_pipeline.py file
+3. Run the test_pipeline.py file using the 'python' command

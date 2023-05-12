@@ -1,0 +1,5 @@
+The data extraction process from the source system is as follows:
+1. Connect to the source system
+2. Identify the data to be extracted
+3. Extract the data
+4. Save the extracted data to a file

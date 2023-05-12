@@ -1,0 +1,8 @@
+Optimizing ETL Pipelines: Tips and Best Practices - LinkedIn
+Extract, transform, and load (ETL) - Azure Architecture Center
+7 Tips to Improve ETL Performance | Integrate.io
+A Complete Guide on Building an ETL Pipeline for Beginners - Analytics Vidhya
+What is ETL Pipeline? Process, Considerations, and Examples - ProjectPro
+Building an ETL Pipeline in Python | Integrate.io
+Pipeline for ETL (Extract, Transform, and Load) Process - Analytics Vidhya
+Create an ETL pipeline in Python with Pandas in 10 minutes - Towards Dev

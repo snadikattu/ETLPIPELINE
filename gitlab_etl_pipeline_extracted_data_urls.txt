@@ -1,0 +1,6 @@
+https://docs.gitlab.com/ee/ci/pipelines/
+https://about.gitlab.com/handbook/business-technology/data-team/
+https://about.gitlab.com/blog/2020/09/23/get-started-ci-pipeline-templates/
+https://gitlab.com/Lumiukko/etl-pipeline
+https://gitlab.com/DIFUTURE/etl-pipeline
+https://towardsdatascience.com/etl-github-actions-cron-383f618704b6
