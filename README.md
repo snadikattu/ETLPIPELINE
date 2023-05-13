@@ -1,4 +1,4 @@
-# a robust simple ETLPIPELINE
+# a  simple robust ETLPIPELINE
 Above ETL pipeline script can test any of Config.ini please add include error handling, logging, testing and often, multiple data sources and destinations. 
 
 Add GitLab CI/CD Configuration**:`.etl-ci.yml` 
